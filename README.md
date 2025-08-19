@@ -20,11 +20,6 @@ This project is a challenge proposed by **Oracle** and **Alura**, developed usin
 * **Postman** for testing API endpoints
 * **Maven** for dependency management
 
-## How to Use
-
-1. Run the application with Spring Boot (`mvn spring-boot:run`).
-2. Use **Postman** (or similar tool) to interact with the API.
-
 ---
 
 <p align="center">
